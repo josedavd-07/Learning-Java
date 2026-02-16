@@ -1,4 +1,4 @@
-package com.LearningJava.HolaMundo;
+package com.LearningJava._01_HolaMundo;
 
 public class _02_Ejercicio1 {
     public static void main(String[] args) {
